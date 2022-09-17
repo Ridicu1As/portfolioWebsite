@@ -63,6 +63,7 @@ body {
     box-shadow: 10px 10px black;
     opacity: 0;
     max-height: 80px;
+    overflow: hidden;
     animation: 1s div2Fade forwards 0.7s;
 }
 
